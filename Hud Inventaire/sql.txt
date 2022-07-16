@@ -1,0 +1,5 @@
+
+ALTER TABLE `user_inventory`
+	ADD `Nommodif` varchar(50) DEFAULT NULL
+; 
+    
